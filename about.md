@@ -7,9 +7,7 @@ title: About
   Hey there! My name is Michael and i'm a Web Developer based in the North East of England. If you like what you see you can follow me on <a href="http://www.twitter.com/iamforcer">Twitter</a>.
 </p>
 
-I develop websites that are well designed, usable and conform to modern standards and technologies.
-
-I'm currently lead developer at [GoodBytes](http://www.goodbytes.co.uk), a small Web Development agency from the North of England.
+I'm currently lead developer at [GoodBytes](http://www.goodbytes.co.uk), a small Web Development agency from the North of England. I develop websites that are well designed, usable and conform to modern standards and technologies.
 
 ## Contact
 
